@@ -1,0 +1,46 @@
+.list-appointment {
+  display: flex;
+  flex-direction: column;
+  list-style-type: none;
+  border-radius: 5px;
+  font-family: "Roboto";
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 5px;
+}
+
+.paragraph {
+  font-family: "Roboto";
+  font-weight: bold;
+  font-size: 20px;
+  color: Black;
+}
+
+.button2 {
+  background: transparent;
+  padding: 0;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.img2 {
+  height: 20px;
+  width: 20px;
+  background: transparent;
+  align-self: center;
+  border: none;
+  outline: none;
+}
+
+.para2 {
+  color: #b5b7c4;
+  font-size: 13px;
+  margin: 0;
+}
